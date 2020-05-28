@@ -1,0 +1,23 @@
+
+//快捷键
+
+新建：ctrl+n                   																command + n
+格式化：ctrl+shift+f                                                                   command+shift+f
+导入包：ctrl+shift+0																	command +shift+o
+注释：ctrl+/，ctrl+shift+/，ctrl+shif+\										command+/,command+shift+/,command+shift+\
+代码上下移动迭代代码：alt+上下键
+查看源码选中类名：F3，ctrl+鼠标点击										command+ shift + t* H:查找具体类的具体方法 command+ o
+查找具体类：ctrl+O
+给建议ctrl+1
+删除代码：ctrl+d
+抽取方法ctrl+shif+m																	option +command
+改名：alt+shift+r																			option+command+ r
+纵向选择alt+shift+a
+查找文字 ctrl+h
+生成构造方法 alt+shift+s -c														option+command + s
+乘胜get和set方法alt +shift +s+r  												option+command+s
+关闭某个类ctrl+w
+//alt+/给提示
+
+
+

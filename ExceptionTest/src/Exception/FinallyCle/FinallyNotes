@@ -1,0 +1,11 @@
+被finally控制的语句体，一定会执行，除非在执行finally之前jvm退出，一般用于关闭资源
+finally语句快可以直接和try语句快使用，try。。finally or try catch finally
+
+
+final finally finalize
+区别
+final 可以修饰类，但是不能被继承
+修饰方法，方法不能被重写
+修饰变量只能赋值1次
+finally是try语句中的一个语句体，不能单独使用，语句体中的语句一定会执行
+finalize是object的一个方法，当没有引用指向这个对象的时候，由对象的垃圾回收器在回收执行前调用
